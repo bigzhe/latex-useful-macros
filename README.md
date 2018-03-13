@@ -57,3 +57,8 @@ This is the content of the example
 
 The Example \ref{example:first} shows ...
 ```
+
+### TODOS
+
+- snippet of beautiful tables
+- snippet of figures / two figures in a row
